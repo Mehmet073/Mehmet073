@@ -40,18 +40,6 @@
 
 ---
 
-## 🚀 Projelerim
-
-### 🏢 İşBul — İş İlanı Platformu
-> ASP.NET Core MVC ile geliştirdiğim Türkçe iş ilanı platformu.
-- MVC mimarisi, Entity Framework Core, SQLite
-- Kullanıcı girişi, ilan listeleme, detay sayfaları
-- `C#` `ASP.NET Core` `EF Core` `SQLite`
-
-
----
-
-
 
 ## 📫 İletişim
 
