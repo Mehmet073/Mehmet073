@@ -9,7 +9,6 @@
 ## 🙋‍♂️ Hakkımda
 
 - 🎓 Yazılım alanında kendini geliştiren bir öğrenciyim
-- 🔭 Şu an **İşBul** adlı iş ilanı platformu üzerinde çalışıyorum
 - 🌱 **ASP.NET Core MVC** ve **Entity Framework Core** öğreniyorum
 - 💡 Web geliştirme, mobil uygulama ve backend'e ilgi duyuyorum
 - 📍 İstanbul, Türkiye
