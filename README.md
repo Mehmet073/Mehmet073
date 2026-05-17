@@ -51,10 +51,12 @@
 
 ---
 
+
+
 ## 📫 İletişim
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mehmet073-181717?style=flat-square&logo=github)](https://github.com/Mehmet073)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehmeteminciftci373@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-mehmeteminciftci373@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehmeteminciftci373@gmail.com)
 
 ---
 
